@@ -10,6 +10,9 @@ Real estate prices factors
 
 ## Structure
 
+* [Feature engineering and preprocessing](https://clck.ru/NWJ2d)
+* [Modeling](https://clck.ru/NWHzt)
+
 ```
 +--data
 ¦  L--raw                                 <- raw data
