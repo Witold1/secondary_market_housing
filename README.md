@@ -18,8 +18,8 @@ Project structure:
 ¦  L--intermediate            <- ... auxiliary, generated, temporary or pre-processed data
 ¦  L--processed files         <- ... two ready-to-analysis files, 'cos we like when matrix X and vector y :)
 ¦  
-+--notebooks                  <- files form .ipynb
-¦  L--processing notebooks    <- ... files form the pipeline of data processing and analysis
++--notebooks                  <- folder for .ipynb files
+¦  L--processing notebooks    <- ... files form curr.version of data processing and analysis pipeline
 ¦  
 +--imgs                       <- folder for graphs and images to insert in reports
 ¦
