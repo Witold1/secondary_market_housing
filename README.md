@@ -12,7 +12,7 @@ Current **report available** [here](https://htmlpreview.github.io/?https://githu
 
 ## Structure of repository
 ```
-Project structure
+Project structure:
 +--data                                   <- folder for data
 ¦  L--raw                                 <- ... raw data
 ¦  L--intermediate						  <- ... auxiliary, generated, temporary or pre-processed data
