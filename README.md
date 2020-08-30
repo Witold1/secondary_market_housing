@@ -8,23 +8,23 @@ To interpretatate the buy-into features from the **secondary real estate market*
 
 Current **report available** [here](https://htmlpreview.github.io/?https://github.com/Witold1/secondary_market_housing/blob/master/notebooks/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.html)
 
-> В данной работе мы делаем попытку объяснить структуру цен квартир в Москве в 2020 г. В работе предполагается, что цена квартиры зависит от ее характеристик, таких как размер и расположение. Таким образом, мы следуем концепции «гедонистических» (hedonic) цен, которая впервые была сформулирована в работе (Haas, 1922) и получила развитие в работах (Griliches, 1961) по ценам автомашин и (Chow, 1967) по ценам на компьютеры. В работе (Lancaster, 1966) содержится изложение экономической теории, на которой основан метод гедонистических цен. В работе (Магнус, Пересецкий, 2010), содержится изложение ставшее основой этого абзаца.
+> Р’ РґР°РЅРЅРѕР№ СЂР°Р±РѕС‚Рµ РјС‹ РґРµР»Р°РµРј РїРѕРїС‹С‚РєСѓ РѕР±СЉСЏСЃРЅРёС‚СЊ СЃС‚СЂСѓРєС‚СѓСЂСѓ С†РµРЅ РєРІР°СЂС‚РёСЂ РІ РњРѕСЃРєРІРµ РІ 2020 Рі. Р’ СЂР°Р±РѕС‚Рµ РїСЂРµРґРїРѕР»Р°РіР°РµС‚СЃСЏ, С‡С‚Рѕ С†РµРЅР° РєРІР°СЂС‚РёСЂС‹ Р·Р°РІРёСЃРёС‚ РѕС‚ РµРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє, С‚Р°РєРёС… РєР°Рє СЂР°Р·РјРµСЂ Рё СЂР°СЃРїРѕР»РѕР¶РµРЅРёРµ. РўР°РєРёРј РѕР±СЂР°Р·РѕРј, РјС‹ СЃР»РµРґСѓРµРј РєРѕРЅС†РµРїС†РёРё В«РіРµРґРѕРЅРёСЃС‚РёС‡РµСЃРєРёС…В» (hedonic) С†РµРЅ, РєРѕС‚РѕСЂР°СЏ РІРїРµСЂРІС‹Рµ Р±С‹Р»Р° СЃС„РѕСЂРјСѓР»РёСЂРѕРІР°РЅР° РІ СЂР°Р±РѕС‚Рµ (Haas, 1922) Рё РїРѕР»СѓС‡РёР»Р° СЂР°Р·РІРёС‚РёРµ РІ СЂР°Р±РѕС‚Р°С… (Griliches, 1961) РїРѕ С†РµРЅР°Рј Р°РІС‚РѕРјР°С€РёРЅ Рё (Chow, 1967) РїРѕ С†РµРЅР°Рј РЅР° РєРѕРјРїСЊСЋС‚РµСЂС‹. Р’ СЂР°Р±РѕС‚Рµ (Lancaster, 1966) СЃРѕРґРµСЂР¶РёС‚СЃСЏ РёР·Р»РѕР¶РµРЅРёРµ СЌРєРѕРЅРѕРјРёС‡РµСЃРєРѕР№ С‚РµРѕСЂРёРё, РЅР° РєРѕС‚РѕСЂРѕР№ РѕСЃРЅРѕРІР°РЅ РјРµС‚РѕРґ РіРµРґРѕРЅРёСЃС‚РёС‡РµСЃРєРёС… С†РµРЅ. Р’ СЂР°Р±РѕС‚Рµ (РњР°РіРЅСѓСЃ, РџРµСЂРµСЃРµС†РєРёР№, 2010), СЃРѕРґРµСЂР¶РёС‚СЃСЏ РёР·Р»РѕР¶РµРЅРёРµ СЃС‚Р°РІС€РµРµ РѕСЃРЅРѕРІРѕР№ СЌС‚РѕРіРѕ Р°Р±Р·Р°С†Р°.
 
 ## Structure of repository
 ```
 Project structure:
 +--data                       <- folder for data
-¦  L--raw                     <- ... raw data
-¦  L--intermediate            <- ... auxiliary, generated, temporary or pre-processed data
-¦  L--processed files         <- ... two ready-to-analysis files, 'cos we like when matrix X and vector y :)
-¦  
+В¦  L--raw                     <- ... raw data
+В¦  L--intermediate            <- ... auxiliary, generated, temporary or pre-processed data
+В¦  L--processed files         <- ... two ready-to-analysis files, 'cos we like when matrix X and vector y :)
+В¦  
 +--notebooks                  <- files form .ipynb
-¦  L--processing notebooks    <- ... files form the pipeline of data processing and analysis
-¦  
+В¦  L--processing notebooks    <- ... files form the pipeline of data processing and analysis
+В¦  
 +--imgs                       <- folder for graphs and images to insert in reports
-¦
+В¦
 +--reports                    <- folder for reports
-¦
+В¦
 +--README.md
 ```
 
@@ -33,6 +33,6 @@ Project structure:
 * Modeling. [Here](https://clck.ru/NWHzt)
 
 ## License and legals
-`Site name — classified. © business type "Name" XYZM–2020.`
+`Site name вЂ” classified. В© business type "Name" XYZMвЂ“2020.`
 
 [Policy of site use](). [Policy of data processing](). [Link]().
