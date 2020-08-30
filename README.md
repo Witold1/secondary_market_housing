@@ -6,7 +6,7 @@
 ## Task description
 To interpretatate the buy-into features from the **secondary real estate market** (living lots, e.g. condos, flats, apartments) from leading online classifieds' database using **hedonic pricing** ideas.
 
-Current **report available** [here](https://htmlpreview.github.io/?https://github.com/Witold1/secondary_market_housing/blob/master/notebooks/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.html)
+Current **report available** [here](https://htmlpreview.github.io/?https://github.com/Witold1/secondary_market_housing/blob/master/report/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.html)
 
 > В данной работе мы делаем попытку объяснить структуру цен квартир в Москве в 2020 г. В работе предполагается, что цена квартиры зависит от ее характеристик, таких как размер и расположение. Таким образом, мы следуем концепции «гедонистических» (hedonic) цен, которая впервые была сформулирована в работе (Haas, 1922) и получила развитие в работах (Griliches, 1961) по ценам автомашин и (Chow, 1967) по ценам на компьютеры. В работе (Lancaster, 1966) содержится изложение экономической теории, на которой основан метод гедонистических цен. В работе (Магнус, Пересецкий, 2010), содержится изложение ставшее основой этого абзаца.
 
